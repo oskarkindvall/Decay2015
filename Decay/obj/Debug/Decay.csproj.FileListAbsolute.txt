@@ -1,0 +1,6 @@
+K:\Transfer TÖMS regelbundet\Oskar_Kindvall\Projects\Decay\Decay\bin\Debug\Decay.exe.config
+K:\Transfer TÖMS regelbundet\Oskar_Kindvall\Projects\Decay\Decay\bin\Debug\Decay.exe
+K:\Transfer TÖMS regelbundet\Oskar_Kindvall\Projects\Decay\Decay\bin\Debug\Decay.pdb
+K:\Transfer TÖMS regelbundet\Oskar_Kindvall\Projects\Decay\Decay\obj\Debug\Decay.exe
+K:\Transfer TÖMS regelbundet\Oskar_Kindvall\Projects\Decay\Decay\obj\Debug\Decay.pdb
+K:\Transfer TÖMS regelbundet\Oskar_Kindvall\Projects\Decay\Decay\obj\Debug\Decay.csprojResolveAssemblyReference.cache

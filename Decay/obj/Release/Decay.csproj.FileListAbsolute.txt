@@ -1,0 +1,5 @@
+K:\Transfer TÖMS regelbundet\Oskar_Kindvall\Projects\Decay\Decay\bin\Release\Decay.exe.config
+K:\Transfer TÖMS regelbundet\Oskar_Kindvall\Projects\Decay\Decay\bin\Release\Decay.exe
+K:\Transfer TÖMS regelbundet\Oskar_Kindvall\Projects\Decay\Decay\bin\Release\Decay.pdb
+K:\Transfer TÖMS regelbundet\Oskar_Kindvall\Projects\Decay\Decay\obj\Release\Decay.exe
+K:\Transfer TÖMS regelbundet\Oskar_Kindvall\Projects\Decay\Decay\obj\Release\Decay.pdb
